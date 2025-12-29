@@ -166,7 +166,10 @@ p {
   align-items: center;
 }
 .reservation__title {
-  margin: 100px auto 80px;
+  padding-top: 100px;
+  padding-bottom: 80px;
+  padding-left: auto;
+  padding-right: auto;
   font-size: 44px;
   font-weight: 500;
   line-height: 52px;
