@@ -179,7 +179,7 @@ p {
   flex-direction: column;
   max-width: 385px;
   width: 385px;
-  margin: 100px 0 80px;
+  margin: 100px 0 120px;
 }
 .form__fieldset {
   display: flex;
